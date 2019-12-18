@@ -16,7 +16,7 @@
     "@types/rimraf": "^2.0.2",
     "backstopjs": "^3.0.31",
     "gulp": "^3.9.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "rimraf": "^2.6.2"
   }
 }
